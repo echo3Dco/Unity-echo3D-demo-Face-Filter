@@ -62,10 +62,6 @@ Overwrite the exisitng *echoAR/CustomBehaviour.cs* script with the new CustomBeh
 
 Simply press the *Play* button in Unity. You can also build it in your phone.
 
-### 9. Screenshots
-
-![screenshot_android](./images/screenshot_android.png)
-
 
 
 ## Learn More
