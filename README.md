@@ -56,7 +56,7 @@ Edit the echoAR prefab and set your API key through in the Inspector view.
 
 ### 7. Change CustomBehaviour
 
-Overwrite the exisitng *echoAR/CustomBehaviour.cs* script with the new CustomBehaviour.cs file
+Overwrite the existing *echoAR/CustomBehaviour.cs* script with the new CustomBehaviour.cs file
 
 ### 8. Run your application
 
