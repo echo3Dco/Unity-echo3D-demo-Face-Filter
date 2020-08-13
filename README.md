@@ -52,7 +52,7 @@ Edit the echoAR prefab and set your API key through in the Inspector view.
 
 ### 6. Upload your face mask image to echoAR console
 
-![screenshot-echoAR-console](./images/screenshot-echoAR-console.png)
+
 
 ### 7. Change CustomBehaviour
 
