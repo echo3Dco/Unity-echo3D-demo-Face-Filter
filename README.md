@@ -1,10 +1,10 @@
-# Unity-echoAR-demo-Face filter
+# Unity-echo3D-demo-Face filter
 
-Simple Face filter demo with Unity and echoAR.
+Simple Face filter demo with Unity and echo3D.
 
 ## Register
 
-Don't have an API key? Make sure to register for FREE at [echoAR](https://console.echoar.xyz/#/auth/register).
+Don't have an API key? Make sure to register for FREE at [echo3D](https://console.echo3D.co/#/auth/register).
 
 ## Setup
 
@@ -24,7 +24,7 @@ Assets > AR Foundation > Scenes > SimpleAR > SimpleAR
 
 In the hierarchy click on the `AR Session Origin` game object.
 
-In the inspector view, look for the `Place on Plane` script and set the `Placed Prefab` to the echoAR prefab in the `Assets > echoAR` folder.
+In the inspector view, look for the `Place on Plane` script and set the `Placed Prefab` to the echo3D prefab in the `Assets > echo3D` folder.
 
 
 
@@ -44,19 +44,19 @@ In the inspector view, click `Add component` and search for `AR Face Manager`and
 
 ### 5.  Set your API key
 
-Edit the echoAR prefab and set your API key through in the Inspector view.
+Edit the echo3D prefab and set your API key through in the Inspector view.
 
 ![img](https://gblobscdn.gitbook.com/assets%2F-M41BcmqhdFQ3r89wcIR%2F-M6XGdldX1DOwh7YUY-7%2F-M6Xj7huqcl5sxLat8YW%2F7.JPG?alt=media&token=ac74e559-4eaf-46a0-a571-01f6ab0ecd75)
 
 
 
-### 6. Upload your face mask image to echoAR console
+### 6. Upload your face mask image to echo3D console
 
 
 
 ### 7. Change CustomBehaviour
 
-Overwrite the existing *echoAR/CustomBehaviour.cs* script with the new CustomBehaviour.cs file
+Overwrite the existing *echo3D/CustomBehaviour.cs* script with the new CustomBehaviour.cs file
 
 ### 8. Run your application
 
@@ -66,8 +66,8 @@ Simply press the *Play* button in Unity. You can also build it in your phone.
 
 ## Learn More
 
-Refer to our [documentation](https://docs.echoar.xyz/unity/) to learn more about how to use Unity and echoAR.
+Refer to our [documentation](https://docs.echo3D.co/unity/) to learn more about how to use Unity and echo3D.
 
 ## Support
 
-Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or join our [support channel on Slack](https://join.slack.com/t/echoar/shared_invite/enQtNTg4NjI5NjM3OTc1LWU1M2M2MTNlNTM3NGY1YTUxYmY3ZDNjNTc3YjA5M2QyNGZiOTgzMjVmZWZmZmFjNGJjYTcxZjhhNzk3YjNhNjE).
+Feel free to reach out at [support@echo3D.co](mailto:support@echo3D.co) or join our [support channel on Slack](https://go.echo3D.co/join).
